@@ -8,8 +8,16 @@ nav .logo{
   text-indent: 10%;
 }
 
-.img-header{
-  height: 300px
+.img-header-contact{
+  object-position:0 -50px;
 }
+
+
+@media screen and (min-width: 800px){
+  .img-header{
+    height: 350px;
+  };
+};
+
 
 
