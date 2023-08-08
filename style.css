@@ -2,7 +2,19 @@ body{
   height: 3000px;
 }
 
-.logo{
+nav .logo{
   width: 100px;
   height: 100px;
+}
+
+main{
+  margin-top: 250px;
+
+}
+
+
+
+.pres_p{
+  text-align: justify;
+  text-indent: 10%;
 }
