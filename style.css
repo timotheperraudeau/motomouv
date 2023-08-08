@@ -1,16 +1,15 @@
 nav .logo{
-  width: 100px;
-  height: 100px;
+  width: 50px;
+  height: 50px;
 }
-
-main{
-  margin-top: 250px;
-
-}
-
-
 
 .pres_p{
   text-align: justify;
   text-indent: 10%;
 }
+
+.img-header{
+  height: 300px
+}
+
+
